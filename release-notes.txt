@@ -9,5 +9,8 @@ Tommi Laukkanen
 
 Release Notes:
 
+v1.1 (March 20th 2009)
++ Configurable Laconi.ca URL
+
 v1.0 (March 14th 2009)
 + First version
