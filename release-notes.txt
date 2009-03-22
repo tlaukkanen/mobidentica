@@ -1,0 +1,13 @@
+Mobidentica - Mobile identi.ca client
+
+Copyright (c) 2009 Tommi Laukkanen
+http://www.substanceofcode.com
+
+Contributors:
+Tommi Laukkanen
+
+
+Release Notes:
+
+v1.0 (March 14th 2009)
++ First version
